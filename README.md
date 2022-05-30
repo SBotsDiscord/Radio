@@ -27,7 +27,7 @@ Vous pourrez bientot les ajouter sur vos serveurs !
 
 Pour inviter le bot sur vos serveurs:
 
-![App Screenshot](https://cdn.discordapp.com/attachments/937806190921015296/980861884829954058/gd_x.png)
+![App Screenshot](https://media.discordapp.net/attachments/937806190921015296/980874065256521738/radio.png)
 
 
 ## Support
